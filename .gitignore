@@ -1,0 +1,22 @@
+# MATLAB & Simulink
+*.asv
+*.autosave
+*.slxc
+*.mex*
+slprj/
+codegen/
+sccprj/
+*.slx.original
+
+# IDE
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Data Files
+data/raw/*.csv
+data/processed/*.csv
+data/parameters/
